@@ -1,2 +1,0 @@
-# Lottie
-Lottie使用
